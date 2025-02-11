@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nafees Adil 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer+%7C+Front-End+Engineer;Passionate+about+Mobile+%26+Web+Development;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer+%7C+Front-End+Engineer;Passionate+about+Mobile+%26+Web+Development;Exploring+Machine+Learning+%26+Web-Application using VUE" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me  
