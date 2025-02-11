@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Nafees Adil 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer+%7C+Front-End+Engineer;Passionate+about+Mobile+%26+Web+Development;Exploring+Machine+Learning+%26+Web+Development+using+Vue.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Flutter+Developer+%7C+Front-End+Engineer;Passionate+about+Mobile+%26+Web+Development;Exploring+Machine+Learning+%26+Web+Development+using+Vue.js" alt="Typing SVG" />
 </p>
-
 ## 🚀 About Me  
 🔹 Based in **Rostock, Germany** 🇩🇪  
 🔹 **Front-end Engineer**, developed a web application for **Rostock University Medicine Center** 🏥  
