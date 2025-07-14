@@ -33,6 +33,14 @@
 
 ## 💼 Professional Experience  
 
+### **Student Research Assistant**  
+** University of Rostock, lEF/Lehrstuhl Wirtschaftsinformatik 
+** | *July 2025 - Current  
+- Analyzing sensor data from HVAC Systems and finding anomalies using machine
+ learning. 
+- Creating a modular pipeline for anomaly detection. 
+- Comprehensive documentation. 
+
 ### **Front-End Engineer (Work-Student)**  
 **Universitätsmedizin Rostock** | *June 2024 - March 2025*  
 - Designed and developed **user-friendly interfaces** using **Vue.js** and **Vuetify**.  
