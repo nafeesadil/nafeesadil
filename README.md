@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nafees Adil 👋</h1>
+<h1 align="center">Hi there, I'm Nafees Adil</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=850&lines=Computer+Science+Graduate+%7C+Software+Developer;Flutter+%7C+Front-End+Development+%7C+Firebase;Machine+Learning+%7C+Data+Analysis+%7C+Information+Systems;Based+in+Germany+and+open+to+new+opportunities" alt="Typing SVG" />
